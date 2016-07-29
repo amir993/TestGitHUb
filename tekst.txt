@@ -1,1 +1,4 @@
 modifikacija
+
+dodana nova linija u fajl
+
